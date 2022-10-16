@@ -1,4 +1,4 @@
-# Nptel_Assignmnet
+# Nptel_Assignment
 Nptel Data Science Assignements
 Examination Solutions
 
